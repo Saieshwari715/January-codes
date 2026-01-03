@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Saieshwari715/January-codes/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/Saieshwari715/January-codes/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saieshwari715/January-codes/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Saieshwari715/January-codes/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
