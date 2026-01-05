@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Saieshwari715/January-codes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Saieshwari715/January-codes/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Saieshwari715/January-codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Saieshwari715/January-codes/tree/master/0162-find-peak-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Saieshwari715/January-codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
