@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saieshwari715/January-codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Saieshwari715/January-codes/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
