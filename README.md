@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saieshwari715/January-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saieshwari715/January-codes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2465-number-of-distinct-averages](https://github.com/Saieshwari715/January-codes/tree/master/2465-number-of-distinct-averages) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saieshwari715/January-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2465-number-of-distinct-averages](https://github.com/Saieshwari715/January-codes/tree/master/2465-number-of-distinct-averages) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saieshwari715/January-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
