@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Saieshwari715/January-codes/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saieshwari715/January-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saieshwari715/January-codes/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3046-split-the-array](https://github.com/Saieshwari715/January-codes/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
 | [2465-number-of-distinct-averages](https://github.com/Saieshwari715/January-codes/tree/master/2465-number-of-distinct-averages) |
+| [3046-split-the-array](https://github.com/Saieshwari715/January-codes/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Saieshwari715/January-codes/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
+| [3046-split-the-array](https://github.com/Saieshwari715/January-codes/tree/master/3046-split-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
