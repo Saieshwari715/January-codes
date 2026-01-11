@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Saieshwari715/January-codes/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saieshwari715/January-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saieshwari715/January-codes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/January-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2465-number-of-distinct-averages](https://github.com/Saieshwari715/January-codes/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saieshwari715/January-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saieshwari715/January-codes/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Saieshwari715/January-codes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/January-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saieshwari715/January-codes/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Trie
 |  |
