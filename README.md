@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saieshwari715/January-codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Saieshwari715/January-codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/Saieshwari715/January-codes/tree/master/1089-duplicate-zeros) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Saieshwari715/January-codes/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saieshwari715/January-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Saieshwari715/January-codes/tree/master/0318-maximum-product-of-word-lengths) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Saieshwari715/January-codes/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
 | ------- |
