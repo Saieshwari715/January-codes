@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saieshwari715/January-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saieshwari715/January-codes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/January-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Saieshwari715/January-codes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Saieshwari715/January-codes/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saieshwari715/January-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saieshwari715/January-codes/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Saieshwari715/January-codes/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Saieshwari715/January-codes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Saieshwari715/January-codes/tree/master/2465-number-of-distinct-averages) |
 | [3046-split-the-array](https://github.com/Saieshwari715/January-codes/tree/master/3046-split-the-array) |
 ## String
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/January-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Saieshwari715/January-codes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saieshwari715/January-codes/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Trie
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Saieshwari715/January-codes/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Saieshwari715/January-codes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3046-split-the-array](https://github.com/Saieshwari715/January-codes/tree/master/3046-split-the-array) |
 ## Divide and Conquer
 |  |
