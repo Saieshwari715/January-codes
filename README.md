@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Saieshwari715/January-codes/tree/master/0318-maximum-product-of-word-lengths) |
+| [0520-detect-capital](https://github.com/Saieshwari715/January-codes/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/Saieshwari715/January-codes/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Saieshwari715/January-codes/tree/master/0819-most-common-word) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/January-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
