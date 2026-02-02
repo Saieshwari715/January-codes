@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Saieshwari715/January-codes/tree/master/1089-duplicate-zeros) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Saieshwari715/January-codes/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saieshwari715/January-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saieshwari715/January-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saieshwari715/January-codes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saieshwari715/January-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2032-two-out-of-three](https://github.com/Saieshwari715/January-codes/tree/master/2032-two-out-of-three) |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Saieshwari715/January-codes/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Saieshwari715/January-codes/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Saieshwari715/January-codes/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saieshwari715/January-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saieshwari715/January-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
